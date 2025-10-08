@@ -1,0 +1,14 @@
+file_format: "1"
+id: caldera
+name: Caldera
+type: shield
+url: https://github.com/christianselig/caldera-keyboard
+requires:
+  - nice_nano_v2
+
+features:
+  - keys
+
+siblings:
+  - caldera_left
+  - caldera_right
